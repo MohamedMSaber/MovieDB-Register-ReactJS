@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MovieDB-Register-ReactJS/static/css/main.9f41f5b5.css",
+    "main.js": "/MovieDB-Register-ReactJS/static/js/main.fe40c093.js",
+    "static/media/fa-solid-900.ttf": "/MovieDB-Register-ReactJS/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/MovieDB-Register-ReactJS/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/MovieDB-Register-ReactJS/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/MovieDB-Register-ReactJS/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/MovieDB-Register-ReactJS/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/MovieDB-Register-ReactJS/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/MovieDB-Register-ReactJS/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MovieDB-Register-ReactJS/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/MovieDB-Register-ReactJS/index.html",
+    "main.9f41f5b5.css.map": "/MovieDB-Register-ReactJS/static/css/main.9f41f5b5.css.map",
+    "main.fe40c093.js.map": "/MovieDB-Register-ReactJS/static/js/main.fe40c093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f41f5b5.css",
+    "static/js/main.fe40c093.js"
+  ]
+}
